@@ -8,4 +8,9 @@ valfja
 aaaaz
 
 
+<<<<<<< HEAD
 dsafjkl 
+=======
+branch:1
+kadsfkjla
+>>>>>>> branch-test-1
